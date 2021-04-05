@@ -1,7 +1,7 @@
 # Shared-FlushFileBuffers-Communication
 Cool kernel communication method.
 
-unknowncheats post: 
+unknowncheats post: https://www.unknowncheats.me/forum/anti-cheat-bypass/448472-shared-buffer-flushfilebuffers-communication-driverbase.html#post3110503
 
 Hello my friends, i would like to share a cool kernel communication method.
 This method abue FlushFileBuffers because it calls in kernel IRP_MJ_FLUSH_BUFFERS and this is a sexy MajorFunction you can hook without any issues. Iv not tested this on any anticheat but far as i know IRP_MJ_FLUSH_BUFFERS is not checked for most drivers!
