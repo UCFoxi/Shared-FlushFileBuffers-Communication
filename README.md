@@ -1,5 +1,6 @@
 # Shared-FlushFileBuffers-Communication
-Cool kernel communication method.\n
+Cool kernel communication method.
+
 unknowncheats post: 
 
 Hello my friends, i would like to share a cool kernel communication method.
